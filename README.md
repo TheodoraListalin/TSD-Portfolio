@@ -10,9 +10,9 @@ I am very interested in how quality data viz can increase accesability to data t
 
 
 <h2>Assignment 2 - Part 1<h2>
-<h3>OECD Government Debt<h/3> 
+<h3>OECD Government Debt</h3>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11728137"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <h2>Assignment 2 - Part 2<h2>
-<h3>Government Debt of the Nordic Countries<h/3> 
+<h3>Government Debt of the Nordic Countries</h3>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11729308"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
