@@ -7,3 +7,7 @@ Current MAM Student at Heinz College, CMU. Excited to take this class and bceome
 
 # What I Hope to Learn 
 I am very interested in how quality data viz can increase accesability to data to folks that don't have background the particular material, e.g. elections and political science 
+
+
+# OECD Government Debt 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11728137"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
