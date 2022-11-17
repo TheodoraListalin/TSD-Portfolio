@@ -7,3 +7,14 @@ Current MAM Student at Heinz College, CMU. Excited to take this class and bceome
 
 # What I Hope to Learn 
 I am very interested in how quality data viz can increase accesability to data to folks that don't have background the particular material, e.g. elections and political science 
+
+
+# Assignment 3 + 4 
+
+<h>Original Visualization </h2>
+
+Earlier this year I had inherited a role where I need to present a report to academics. The report has many data visualizations, including the one below. 
+I chose this one because when I was originally presenting the report I stumbled on my words because the titles of the variables were incomplete. And one would have to search within the wordy report to find the full title of some of the variables. 
+Also the structure does not tell a story, its just random data thrown together – I have to look for a long time to figure out the top 3. 
+![image](https://user-images.githubusercontent.com/108349433/202548310-8f1ae593-89ea-4aa4-a822-b91dbf23b7db.png)
+
