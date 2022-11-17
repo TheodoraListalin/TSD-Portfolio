@@ -20,7 +20,6 @@ Also the structure does not tell a story, its just random data thrown together â
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/108349433/202548401-7a35020f-226e-4a32-b701-b938bfc520aa.png">
 
 <h2>Redesign</h2>
-
 ![image](https://user-images.githubusercontent.com/108349433/202548787-f572483a-5189-4ce8-94ba-d3358dc4e1e6.png)
 
 ![image](https://user-images.githubusercontent.com/108349433/202548925-c8a80847-ac53-4677-9fd9-f5e865b1a925.png)
@@ -37,4 +36,4 @@ It was consistent that people suggested grouping together similar variables e.g.
 
 <h2>Final Design</h2> 
 
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/11834292"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
