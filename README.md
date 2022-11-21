@@ -12,7 +12,7 @@ I am very interested in how quality data viz can increase accesability to data t
 # Assignment 3 + 4 
 [Here's a new link](Assignment34.md)
 
-<h>Original Visualization</h2>
+<h2>Original Visualization</h2>
 
 Earlier this year I had inherited a role where I need to present a report to academics. The report has many data visualizations, including the one below. 
 I chose this one because when I was originally presenting the report I stumbled on my words because the titles of the variables were incomplete. And one would have to search within the wordy report to find the full title of some of the variables. 
