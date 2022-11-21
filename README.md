@@ -24,6 +24,7 @@ Also the structure does not tell a story, its just random data thrown together �
 here is a photo, 
 
 ![fallformal](fall%20formal.png)
+<img src=“fall%20formal.png” width="300"/>
 hello there 
 ![image](https://user-images.githubusercontent.com/108349433/202548787-f572483a-5189-4ce8-94ba-d3358dc4e1e6.png)
 
