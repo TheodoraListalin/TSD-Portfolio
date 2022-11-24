@@ -14,6 +14,10 @@ I am very interested in how quality data viz can increase accesability to data t
 # Assignment 3 + 4 
 [Here's a new link](Assignment34.md)
 
+# Assignment 2
+
+[Link](assignment2.md)
+
 <h2>Original Visualization</h2>
 
 Earlier this year I had inherited a role where I need to present a report to academics. The report has many data visualizations, including the one below. 
