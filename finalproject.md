@@ -1,14 +1,14 @@
 # Final Project 
 
-<h2> An outline </h2>
+<h2> An Outline </h2>
 
-Status Quo / Baseline
+<h3> Status Quo / Baseline </h3>
 
 Conflict 
 
-Resolution proposed 
+Resolution Proposed 
 
-Conclusion 
+Looking forward 
 
 
 <h2> Initial Sketches </h2>
