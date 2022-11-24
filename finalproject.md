@@ -22,5 +22,6 @@ This is a relative new tool and there have been obstacles in people's belief in 
 <h2> The Data </h2>
 
 <h2> Method and Medium </h2>
+For my final project I plan on using Shorthand. I believe that it is a good platform to present a story in a linear perspective, create ‘’Build up” and flow of the story. I have not yet decided what features on Shorthand I would like to attach to each section or how to weigh them  but I am sure that it will become clearer as the project progresses. After the demo in class, I feel more confident exploring the possibilities of Shorthand.
 
 [Homepage](https://theodoralistalin.github.io/TSD-Portfolio/)
