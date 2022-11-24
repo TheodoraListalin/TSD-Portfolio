@@ -19,6 +19,11 @@ This is a relative new tool and there have been obstacles in people's belief in 
 
 <h2> Initial Sketches </h2>
 
+!<img width="999" alt="Screen Shot 2022-11-24 at 12 39 02 AM" src="https://user-images.githubusercontent.com/108349433/203703505-3c150f32-101b-4f0a-ac73-9fa0d901eac0.png">
+
+<img width="1010" alt="Screen Shot 2022-11-24 at 12 39 10 AM" src="https://user-images.githubusercontent.com/108349433/203703511-13329b94-6f99-4011-a3e3-b02d09f8541c.png">
+
+
 <h2> The Data </h2>
 
 [The Gender Gap Index](https://www3.weforum.org/docs/WEF_GGGR_2022.pdf) is the primary resource of data for establishing the baseline of gender disparities. It has been published annually since 2006 when it originally benchmarked the state of gender parity and has assessed the progress of gender equity annually. It analyses the state across four dimensions (Economic Participation and Opportunity, Educational Attainment, Health and Survival, and Political Empowerment) in 146 countries. In the last report of 2022, The United States is ranked globally at 27 with a score of 0.769 (on a scale of 0-1). I plan on using this data to give an overview of gender disparities. 
