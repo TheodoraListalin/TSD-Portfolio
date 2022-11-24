@@ -1,6 +1,6 @@
 # Final Project 
 
-<h2> An outline </2>
+<h2> An outline </h2>
 
 Status Quo / Baseline
 
