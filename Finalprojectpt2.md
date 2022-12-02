@@ -11,6 +11,6 @@ The target audience would entail future policy makers and changers. Specifically
 
 | Goal                               | Question      |
 | ---------------------------------- |:-------------:|
-| Where is the weight of the story   | right-aligned |
+| Where is the weight of the story   | What information/data stuck out in your mind? |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
