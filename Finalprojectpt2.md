@@ -22,7 +22,7 @@ The target audience would entail future policy makers and changers. Specifically
 |                                | Interviewee 1 | Interviewee 2 | Interviewee 3 | 
 | ------------------------------ |:-------------:|--------------:| -------------:|
 | What information/data stuck out in your mind? | Values of the gender pay gap, it was on top and bolded. The map and labeling different steps in the process| 
-| Was something missing? / Was something that evoked your curiosity that was not mentioned?| 
+| Was something missing? / Was something that evoked your curiosity that was not mentioned?| The ambiguity of the scale – what does the Gender Pay Gap entail? The map – what does it mean? Limitations need more work. What the process policy options mean |
 | What worked? And why? |
 | What didn’t work? And why? |
 | Anything else you would like to add? |
