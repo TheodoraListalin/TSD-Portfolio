@@ -28,3 +28,8 @@ The target audience would entail future policy makers and changers. Specifically
 | Anything else you would like to add? | Include a section of opportunity cost of not implementing gender budgeting | Interesting topic, kind of depression how the US does not have the right political view. Maybe have the global stats more “cartoonish” | You’re on the right track |
 
 # Next Steps 
+Next steps for me include,
+-	Update the colors for the world map 
+-	Have a clearer explanation of what the Gender Pay Gap is, what the data that is being used actually entails 
+-	Have a stronger ending 
+-	Refine the data visualizations, e.g. the comparisons, and how things have progressed. 
