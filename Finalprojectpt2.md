@@ -21,10 +21,10 @@ The target audience would entail future policy makers and changers. Specifically
 
 |                                | Interviewee 1 | Interviewee 2 | Interviewee 3 | 
 | ------------------------------ |:-------------:|--------------:| -------------:|
-| What information/data stuck out in your mind? | Values of the gender pay gap, it was on top and bolded. The map and labeling different steps in the process| 
-| Was something missing? / Was something that evoked your curiosity that was not mentioned?| The ambiguity of the scale – what does the Gender Pay Gap entail? The map – what does it mean? Limitations need more work. What the process policy options mean |
-| What worked? And why? | The emphasis on the data, the figures dominant on the slide |
-| What didn’t work? And why? | Some things were missing context |
-| Anything else you would like to add? | Include a section of opportunity cost of not implementing gender budgeting | 
+| What information/data stuck out in your mind? | Values of the gender pay gap, it was on top and bolded. The map and labeling different steps in the process| The gender gap in the US is not high enough |
+| Was something missing? / Was something that evoked your curiosity that was not mentioned?| The ambiguity of the scale – what does the Gender Pay Gap entail? The map – what does it mean? Limitations need more work. What the process policy options mean | What gender budgeting is – how is it implemented and etc, and what the process tools are. Maybe include comparison of US vs. other countries, for e.g. the Gender Pay Gap | 
+| What worked? And why? | The emphasis on the data, the figures dominant on the slide | The map was interesting and easy to navigate, rather than the pie chart in the original data
+| What didn’t work? And why? | Some things were missing context | The coloring in the map can’t be red and green. I also thought that the red countries were the ones that had implemented the policy but it was actually the opposite | 
+| Anything else you would like to add? | Include a section of opportunity cost of not implementing gender budgeting | Interesting topic, kind of depression how the US does not have the right political view. Maybe have the global stats more “cartoonish” |
 
 # Next Steps 
