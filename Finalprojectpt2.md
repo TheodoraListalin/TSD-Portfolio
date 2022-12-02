@@ -11,6 +11,9 @@ The target audience would entail future policy makers and changers. Specifically
 
 | Goal                               | Question      |
 | ---------------------------------- |:-------------:|
+| Where is the weight of the story | What information/data stuck out in your mind? |
 | Any unanswered questions   | Was something missing? / Was something that evoked your curiosity that was not mentioned? |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| What to emphasis, keep in or expand     | What worked? And why?    |
+| What to make clearer or take out | What didn’t work? And why?  |
+| Is there something I did not ask already | Anything else you would like to add? |
+
