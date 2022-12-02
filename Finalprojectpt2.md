@@ -9,8 +9,8 @@ The target audience would entail future policy makers and changers. Specifically
 
 # Interview Structure
 
-| Goal          | Question      |
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
+| Goal                               | Question      |
+| ---------------------------------- |:-------------:|
+| Where is the weight of the story   | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
