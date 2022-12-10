@@ -7,3 +7,7 @@ I had made slides to draft the narrative, similar to how I learned to do them in
 
 <h2>Part 3 Summary</h2>
 I unfortunately didn’t see the feedback before my presentation on Tuesday. So I essentially uploaded information from the slides into a shorthand presentation. It was easier than I thought to work on shorthand. There was a lot of information, and it was a balancing act to make sure that the story was deliberate enough to present in one minute. So I left out the comparison between the USA and Sweden for the presentation. But on second thought after the presentation – maybe it would have been better to keep it in there since that data is the juiciest part of the story. When comparing the two countries there was not a big numeric difference, but the social impact is significant, so I made the decision to have the x-axis start on 0.6 to showcase more of a distance between the two. 
+
+<h3>The Audience</h3>
+As mentioned in part 2, the indented audience was future policy makers that are curious about gender equity. My intention was to elicit their curiosity and having people want to learn more. And nudge the audience to think in a solution oriented way. 
+
