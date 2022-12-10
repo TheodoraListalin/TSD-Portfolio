@@ -1,4 +1,5 @@
 # Shorthand Page
+
 <script src="https://carnegiemellon.shorthandstories.com/gender-budgeting/embed.js"></script>
 
 <h2>Part 1 Summary</h2>
