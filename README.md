@@ -14,9 +14,11 @@ I am very interested in how quality data viz can increase accesability to data t
 # Final Project Part 2 
 [Click here](Finalprojectpt2.md)
 
+# Final Project Part 3
+[click here](finalproject3.md) 
+
 # Assignment 3 + 4 
 [Here's a new link](Assignment34.md)
 
 # Assignment 2
-
 [Link](assignment2.md)
