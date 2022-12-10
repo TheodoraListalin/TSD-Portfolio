@@ -9,13 +9,8 @@ Current MAM Student at Heinz College, CMU. Excited to take this class and bceome
 I am very interested in how quality data viz can increase accesability to data to folks that don't have background the particular material, e.g. elections and political science 
 
 # Final Project Site 
-[Here's a new link](finalproject.md)
+[Click here](finalprojectsite.md)
 
-# Final Project Part 2 
-[Click here](Finalprojectpt2.md)
-
-# Final Project Part 3
-[click here](finalproject3.md) 
 
 # Assignment 3 + 4 
 [Here's a new link](Assignment34.md)
